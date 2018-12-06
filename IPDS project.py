@@ -18,3 +18,7 @@ rates = table[3]
 
 for rate in rates:
     print(rate)
+
+    
+    
+hi 
